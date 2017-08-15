@@ -3,6 +3,8 @@ layout: page
 title: About Me
 ---
 
-My name is Lindsay Berry and I'm a third year PhD student in the Department of Statistical Science at Duke University. I'm advised my [Dr. Mike West](http://www2.stat.duke.edu/~mw/), and we are currently working on projects related to Bayesian forecasting and time series models. 
+I'm a third year PhD student in the [Department of Statistical Science](http://stat.duke.edu/) at [Duke University](https://www.duke.edu/). I'm advised by [Dr. Mike West](http://www2.stat.duke.edu/~mw/), and we're currently working with [84.51$^{\circ}$](https://www.8451.com/) on projects related to Bayesian forecasting and time series models. 
 
-If you'd like to get in contact with me, feel free to [send me an email.](mailto:lindsay.berry@duke.edu)
+Before coming to Duke, I attended the University of Texas at Austin, where I received my BS in Mathematics and was a member of the Dean's Scholars. 
+
+If you have any other questions, feel free to [send me an email.](mailto:lindsay.berry@duke.edu)
