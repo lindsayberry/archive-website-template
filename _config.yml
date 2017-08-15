@@ -25,11 +25,8 @@ description: Statistics PhD Candidate at Duke University
 navbar-links:
   Home: ""
   Teaching:
-    - STA 101 - Summer 1: "https://www2.stat.duke.edu/courses/Summer17/sta101.001-1/"
-    - STA 101 - Summer 2: "https://www2.stat.duke.edu/courses/Summer17/sta101.001-1/"
-    - Coursera: "https://www.coursera.org/specializations/statistics"
   Research: "research"
-  CV: "files/Resume_Burris.pdf"
+  CV: "files/Resume_Berry.pdf"
   About: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -52,11 +49,11 @@ author:
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: lindsayberry  # eg. daattali
+  linkedin: lindsayberry93  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
+  instagram: lindsayberry # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
@@ -74,7 +71,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
