@@ -23,7 +23,7 @@ description: Statistics PhD Candidate at Duke University
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "news"
   About: "aboutme"
   Research: "research"
   CV: "files/Resume_Berry.pdf"
