@@ -7,8 +7,9 @@ I'm a third year PhD candidate in [Statistical Science](http://stat.duke.edu/) a
 
 From 2011 to 2015, I attended the University of Texas at Austin (:metal:), where I received my BS in Mathematics and was a member of the Dean's Scholars. 
 
-Outside of statistics, I enjoy reading, yoga, hiking, adventuring with my dog [Maverick](/img/maverick.jpg), and [biking for good causes](https://bikeandbuild.org/). 
+Outside of statistics, I enjoy reading, yoga, hiking, Duke basketball, adventuring with my dog [Maverick](/img/maverick.jpg), and [biking for good causes](https://bikeandbuild.org/). 
 
 If you have any other questions, feel free to [send me an email.](mailto:lindsay.berry@duke.edu)
 
 ![Maverick](/img/mav.jpg)
+![BikeAndBuild](/img/bike.jpg)
