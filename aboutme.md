@@ -10,3 +10,5 @@ From 2011 to 2015, I attended the University of Texas at Austin (:metal:), where
 Outside of statistics, I enjoy reading, yoga, hiking, adventuring with my dog [Maverick](/img/maverick.jpg), and [biking for good causes](https://bikeandbuild.org/). 
 
 If you have any other questions, feel free to [send me an email.](mailto:lindsay.berry@duke.edu)
+
+![Maverick](/img/mav.jpg)
