@@ -23,7 +23,7 @@ description: Statistics PhD Candidate at Duke University
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutme"
+  About Me: "aboutme"
   Research: "research"
   CV: "cv"
   #Activity:
