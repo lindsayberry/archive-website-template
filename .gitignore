@@ -7,3 +7,10 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
