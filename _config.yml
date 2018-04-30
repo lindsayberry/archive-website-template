@@ -15,28 +15,6 @@ avatar: "/img/avatar2.jpg"
 # Flags below are optional
 #
 
-# Name of website
-name: Lindsay Berry
-
-# Short description of your site
-description: Statistics Ph.D. Candidate at Duke University
-
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
-navbar-links:
-  Home: ""
-  About: "aboutme"
-  Research: "research"
-  CV: "cv"
-#  CV: "files/Resume_Berry.pdf"
-# Teaching:
-
-
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-# title-img: /path/to/image
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -44,7 +22,7 @@ footer-links:
   facebook:
   flickr:
   github: lindsayberry
-  instagram: lindsayberry
+  instagram:
   linkedin: lindsayberry93
   pinterest:
   rss: # just type anything here for a working RSS icon
@@ -53,6 +31,17 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+#navbar-links:
+#  Home: ""
+#  About: "aboutme"
+#  Research: "research"
+#  CV: "cv"
+#  CV: "files/Resume_Berry.pdf"
+# Teaching:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -65,26 +54,13 @@ google_analytics:
 # Used for Sitemap.xml and your RSS feed
 url: https://lindsayberry.github.io
 
-# --- Misc --- #
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Google Tag Manager ID
-#gtm: ""
-
-# Facebook App ID
-# fb_app_id: ""
-
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+#excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+#title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
