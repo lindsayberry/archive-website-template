@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lindsay Berry
-subtitle: PhD candidate in Statistics
+subtitle: Ph.D. Candidate in Statistics
 ---
 
 I'm a third year PhD candidate in [Statistical Science](http://stat.duke.edu/) at [Duke University](https://www.duke.edu/). I work with [Mike West](http://www2.stat.duke.edu/~mw/) and [84.51](https://www.8451.com/) on large scale Bayesian forecasting in the context of product demand forecasting. My current research touches upon topics including forecasting and time series analysis, Bayesian dynamic models, high-dimensional computation, decision analysis, statistical computing, and more!
