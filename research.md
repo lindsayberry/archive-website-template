@@ -10,6 +10,7 @@ As a research assistant for 84.51&deg;, I am interesting in forecasting demand f
 
 * [Bayesian forecasting of many count-valued time series](https://arxiv.org/abs/1805.05232)
 
+
 #### Obscenity cases over time
 Interdisciplinary research analyzing the number of obscenity cases over time and space, and the relationship to factors like Supreme Court case decisions, and presidential party.
 
