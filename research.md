@@ -8,5 +8,5 @@ I have broad research interests in Bayesian statistics.  My current research tou
 #### Demand Forecasting for High Dimensional Time Series of Counts
 As a research assistant for 84.51&deg;, I am interesting in forecasting demand for products with low volume daily sales counts. This project involves developing sequential, on-line forecasting models for low volume count data.  
 
-[Bayesian forecasting of many count-valued time series](https://arxiv.org/abs/1805.05232)  
+[Bayesian forecasting of many count-valued time series](https://amstat.tandfonline.com/doi/abs/10.1080/07350015.2019.1604372?journalCode=ubes20#.XTHPjJNKiXE)  
 [Probabilistic forecasting of heterogeneous consumer transaction-sales time series](https://arxiv.org/abs/1808.04698)  
