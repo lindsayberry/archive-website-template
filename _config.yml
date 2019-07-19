@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://lindsayberry.github.io/img/avatar2.jpg"
+avatar: "https://lindsayberry.github.io/img/berry.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -46,7 +46,7 @@ avatar: "https://lindsayberry.github.io/img/avatar2.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: "Lindsay Berry"
-  email: "lindsay.berry@duke.edu"
+  email: "lindsayrberry@gmail.com"
   facebook: "lindsayberry93"  # eg. daattali
   github: "lindsayberry"    # eg. daattali
   twitter: yourname   # eg. daattali
