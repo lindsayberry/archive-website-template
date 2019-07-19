@@ -14,4 +14,4 @@ Outside of statistics, I enjoy reading, yoga, hiking, adventuring with my dog Ma
 
 If you have any other questions, feel free to [send me an email.](mailto:lindsayrberry@gmail.com)
 
-![Maverick](/img/mav.jpeg)
+![Maverick](/img/mav.jpg)
